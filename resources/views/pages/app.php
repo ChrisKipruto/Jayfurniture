@@ -2,19 +2,17 @@
 <?php require '../layouts/app.header.php'; ?>
 
 <!-- title -->
-<title>Dashboard</title>
+<title>App Name</title>
 </head>
-<body class="bg-gray-200">
+<body>
 
 <!-- main body content -->
-<div class="wrapper">
+<main>
+    <div class="container">
+        
+    </div>
+</main>
 
-    <!-- admin top nav -->
-    <?php include '../includes/admin-top-nav.php'; ?>
-
-    
-</div>
-    
 <!-- app footer -->
 <?php require '../layouts/app.footer.php'; ?>
     

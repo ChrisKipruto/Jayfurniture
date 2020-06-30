@@ -15,9 +15,6 @@
     <!-- mdb js -->
     <script src="../../../node_modules/mdbootstrap/js/mdb.min.js"></script>
 
-    <!-- AdminLTE App -->
-    <script src="../../../public/dist/js/adminlte.min.js"></script>
-
     <!-- auth js -->
     <script src="../../../public/dist/js/auth.js"></script>
 </body>
