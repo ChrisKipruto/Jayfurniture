@@ -2,17 +2,15 @@
 <?php require '../layouts/app.header.php'; ?>
 
 <!-- title -->
-<title>Pages</title>
+<title>Dashboard</title>
 </head>
-<body>
+<body  class="hold-transition sidebar-mini layout-navbar-fixed">
 
 <!-- main body content -->
-<main>
-    <div class="container">
-        
-    </div>
-</main>
-
+<div class="wrapper">
+    
+</div>
+    
 <!-- app footer -->
 <?php require '../layouts/app.footer.php'; ?>
     
