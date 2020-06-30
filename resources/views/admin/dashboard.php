@@ -8,7 +8,10 @@
 
 <!-- main body content -->
 <div class="wrapper">
-    
+
+    <!-- admin top nav -->
+    <?php include '../includes/admin-top-nav.php'; ?>
+
 </div>
     
 <!-- app footer -->
